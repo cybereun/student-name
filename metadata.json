@@ -1,0 +1,5 @@
+{
+  "name": "학생 이름 맞추기 게임",
+  "description": "학생들의 사진을 보고 이름을 맞추는 퀴즈 게임입니다.",
+  "requestFramePermissions": []
+}
